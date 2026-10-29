@@ -1,0 +1,17 @@
+u1 [年賀状 テンプレート 2027] exit=0 YouTube: 0 videos
+u2 [うちわ文字 テンプレート] exit=0 YouTube: 2 videos
+u3 [推し活 手帳 テンプレート] exit=0 YouTube: 2 videos
+u4 [結婚式 席次表 手作り Canva] exit=0 YouTube: 0 videos
+u5 [保育士 製作 テンプレート] exit=0 YouTube: 2 videos
+u6 [小学生 プリント 家庭学習] exit=0 YouTube: 2 videos
+u7 [英検 対策 教材] exit=0 YouTube: 0 videos
+u8 [簿記 FP 勉強法 独学] exit=0 YouTube: 0 videos
+u9 [就活 エントリーシート 書き方] exit=0 
+u10 [確定申告 フリーランス 初心者] exit=0 YouTube: 0 videos
+u11 [新NISA 初心者 何を買う] exit=0 YouTube: 0 videos
+u12 [デジタルプランナー iPad 手帳] exit=0 YouTube: 3 videos
+u13 [インスタ 集客 サロン テンプレート] exit=0 YouTube: 2 videos
+u14 [ChatGPT 仕事 効率化 プロンプト] exit=0 YouTube: 2 videos
+u15 [Excel 業務効率化 テンプレート] exit=0 YouTube: 2 videos
+u16 [占い ココナラ 人気] exit=0 YouTube: 0 videos
+DONE

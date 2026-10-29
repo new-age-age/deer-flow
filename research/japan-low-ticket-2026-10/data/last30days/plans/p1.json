@@ -1,0 +1,5 @@
+{"intent":"product","freshness_mode":"balanced_recent","cluster_mode":"none","subqueries":[
+{"label":"primary","search_query":"デジタルコンテンツ 販売 副業 売れる","ranking_query":"日本で今売れているデジタル商品・低価格コンテンツは何か？","sources":["reddit","youtube"],"weight":1.0},
+{"label":"note","search_query":"note 有料記事 売れた","ranking_query":"noteの有料記事で実際に売れているジャンルは何か？","sources":["youtube","reddit"],"weight":0.8},
+{"label":"templates","search_query":"テンプレート 販売 Canva Notion 売れる","ranking_query":"Canva・Notionテンプレートの販売で売れている商品は？","sources":["youtube"],"weight":0.7},
+{"label":"coconala","search_query":"ココナラ 売れる 出品","ranking_query":"ココナラで売れているサービス・商品は何か？","sources":["youtube"],"weight":0.6}]}

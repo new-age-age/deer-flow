@@ -1,0 +1,3 @@
+URL: https://note.com/street_academy/n/nc3fdaf5cff42
+
+Error: Jina API returned status 401: {"data":null,"code":401,"name":"AuthenticationRequiredError","status":40103,"message":"You have been blocked from performing anonymous queries due to bad IP reputation. Please authenticate.","readableMessage":"AuthenticationRequiredError: You have been blocked from performing anonymous queries due to bad IP reputation. Please authenticate."}

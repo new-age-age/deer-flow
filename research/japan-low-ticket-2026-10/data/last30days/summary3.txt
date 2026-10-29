@@ -1,0 +1,10 @@
+v1 [ココフォリア 部屋 素材] exit=0 YouTube: 0 videos
+v2 [TRPG 背景 素材] exit=0 YouTube: 2 videos
+v3 [VTuber 配信画面 作り方] exit=0 
+v4 [コミケ お品書き 作り方] exit=0 YouTube: 0 videos
+v5 [確定申告 フリーランス 2026] exit=0 
+v6 [年賀状じまい 2027] exit=0 YouTube: 0 videos
+v7 [推し活 うちわ 作り方] exit=0 YouTube: 2 videos
+v8 [デジタルペーパー 販売] exit=0 YouTube: 0 videos
+v9 [立ち絵 素材 AI] exit=0 YouTube: 6 videos
+DONE

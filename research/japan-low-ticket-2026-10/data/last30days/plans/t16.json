@@ -1,0 +1,1 @@
+{"intent": "product", "freshness_mode": "balanced_recent", "cluster_mode": "none", "subqueries": [{"label": "primary", "search_query": "インスタ運用 テンプレート", "ranking_query": "インスタ運用 テンプレート について日本の消費者・販売者は最近何を言っているか？売れている商品・悩み・不満は？", "sources": ["youtube"], "weight": 1.0}]}

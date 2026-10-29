@@ -1,0 +1,19 @@
+t1 [有料note 売れる] exit=0 YouTube: 8 videos
+t2 [Brain 販売 副業] exit=0 
+t3 [ココナラ 出品 稼ぐ] exit=0 YouTube: 0 videos
+t4 [BOOTH 販売 デジタル] exit=0 YouTube: 2 videos
+t5 [Canva テンプレート 販売] exit=0 
+t6 [Notion テンプレート 販売] exit=0 YouTube: 2 videos
+t7 [LINEスタンプ 販売 AI] exit=0 YouTube: 6 videos
+t8 [Kindle出版 副業 AI] exit=0 YouTube: 0 videos
+t9 [ChatGPT プロンプト 販売] exit=0 YouTube: 2 videos
+t10 [AI 副業 デジタル商品 販売] exit=0 
+t11 [Tips 有料記事 販売] exit=0 YouTube: 11 videos
+t12 [情報商材 返金 トラブル] exit=0 YouTube: 10 videos
+t13 [家計管理 テンプレート] exit=0 YouTube: 2 videos
+t14 [資格試験 勉強法 教材] exit=0 YouTube: 2 videos
+t15 [転職 職務経歴書 テンプレート] exit=0 YouTube: 0 videos
+t16 [インスタ運用 テンプレート] exit=0 YouTube: 3 videos
+t17 [英語学習 教材 自作] exit=0 YouTube: 7 videos
+t18 [子育て 悩み 解決] exit=0 
+DONE
